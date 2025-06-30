@@ -48,6 +48,15 @@ Designed for smooth shopping experiences with clean UI and seamless backend inte
 
 ---
 
+### 📞 Contact
+
+If you have any questions, feedback, or want to collaborate, feel free to reach out!
+
+- 📧 **Email:** toukir.jibon22@gmail.com
+- 🐙 **GitHub:** [TOUKIR21AHMED](https://github.com/TOUKIR21AHMED)
+
+---
+
 ### Installation
 
 ```bash
@@ -56,11 +65,5 @@ cd MediCampus_Next.Js_FullStack
 npm install
 npm start
 
----
 
-## 📞 Contact
 
-If you have any questions, feedback, or want to collaborate, feel free to reach out!
-
-- 📧 **Email:** toukir.jibon22@gmail.com
-- 🐙 **GitHub:** [TOUKIR21AHMED](https://github.com/TOUKIR21AHMED)
